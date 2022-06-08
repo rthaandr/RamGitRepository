@@ -1,0 +1,4 @@
+Hi Welcome to git 
+This is my first git file 
+unstaged and did some changes after staging
+
